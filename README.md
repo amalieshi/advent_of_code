@@ -1,4 +1,11 @@
 # [AdventofCode2022](https://adventofcode.com/2022)
  solving Advent of Code 2022
  
- **The Advent of Code** is my favourite Christmas activity! I love the advent calendar, and I finally find a place to do something that I love and have Christmas themed word problems and I could solve them and publish it on GitHub. Solving these types of puzzles are really fun. I am using a little bit of hack from Notepad++ with the replacement function though. The input that I got were put into list by using the replaced and multiline edit functions. The first part is usually the input but if you scroll low enough(ctrl+End) you can see my solution. I am still new in the whole refactoring shenanigan so bear with me! I promise I will get better.  
+Advent of code 2022 is really great! I have bene honing up my python skills and practice Git here. I have been getting more comfortable in writing codes in PyCharm and VScode. 
+
+Some of the lessons learnt here:
+ - use Jupyter notebook for documentation, and don't use it as a primary environment to develop code. Always practice your debugging skills to be proficient in using different shortcuts.
+ - PEP8 is your friend. Always make readability your priority. 
+ - Branch early and branch often. Squash your commit messages during development to maka the tree clean.
+ - seperate your raw data and the code to make it easy to read.
+ - most importantly, practice makes you a better coder. 
