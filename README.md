@@ -1,4 +1,5 @@
-# [Advent of Code 2022](https://adventofcode.com/2022)
+# Advent of Code
+## [Advent of Code 2022](https://adventofcode.com/2022)
  solving Advent of Code 2022
  
 Advent of code 2022 is really great! I have bene honing up my python skills and practice Git here. I have been getting more comfortable in writing codes in PyCharm and VScode. 
